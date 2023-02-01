@@ -1,7 +1,7 @@
 # Stephen-s-Portfolio
 - My portfolio
 
-##Author
+## Author
 - [@izusimco](https://www.github.com/izusimco)
 
 ## Built with
